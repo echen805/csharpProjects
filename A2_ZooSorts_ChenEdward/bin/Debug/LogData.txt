@@ -1,0 +1,7 @@
+0    Giraffe         George            2600    4       $3,600.00          25
+0    Giraffe         Carol             2600    4       $4,500.00          25
+0    Giraffe         Shirley           1400    3       $4,500.00          25
+0    Giraffe         Tess              1400    3       $4,500.00          25
+1    Lion            Leo                360    4       $2,500.00           9
+2    Giraffe         Amber             1400    3       $4,500.00          25
+3    Giraffe         Charlie           2600    4       $3,600.00          25

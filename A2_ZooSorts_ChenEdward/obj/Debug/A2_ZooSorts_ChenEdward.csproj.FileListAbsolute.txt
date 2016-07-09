@@ -1,0 +1,6 @@
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\bin\Debug\A2_ZooSorts_ChenEdward.exe.config
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\bin\Debug\A2_ZooSorts_ChenEdward.exe
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\bin\Debug\A2_ZooSorts_ChenEdward.pdb
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\obj\Debug\A2_ZooSorts_ChenEdward.csprojResolveAssemblyReference.cache
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\obj\Debug\A2_ZooSorts_ChenEdward.exe
+c:\users\ed\documents\visual studio 2015\Projects\A2_ZooSorts_ChenEdward\obj\Debug\A2_ZooSorts_ChenEdward.pdb

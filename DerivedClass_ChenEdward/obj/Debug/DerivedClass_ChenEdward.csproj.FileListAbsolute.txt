@@ -1,0 +1,6 @@
+c:\users\ed\documents\visual studio 2015\Projects\DerivedClass_ChenEdward\bin\Debug\DerivedClass_ChenEdward.exe.config
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\DerivedClass_ChenEdward\obj\Debug\DerivedClass_ChenEdward.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\DerivedClass_ChenEdward\bin\Debug\DerivedClass_ChenEdward.exe
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\DerivedClass_ChenEdward\bin\Debug\DerivedClass_ChenEdward.pdb
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\DerivedClass_ChenEdward\obj\Debug\DerivedClass_ChenEdward.exe
+C:\Users\Ed\Documents\Visual Studio 2015\Projects\DerivedClass_ChenEdward\obj\Debug\DerivedClass_ChenEdward.pdb
