@@ -1,0 +1,6 @@
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\bin\Debug\ThreadSafety.exe.config
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\bin\Debug\ThreadSafety.exe
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\bin\Debug\ThreadSafety.pdb
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\obj\Debug\ThreadSafety.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\obj\Debug\ThreadSafety.exe
+C:\Users\Ed\Dropbox\C# Projects\ThreadSafety\obj\Debug\ThreadSafety.pdb
