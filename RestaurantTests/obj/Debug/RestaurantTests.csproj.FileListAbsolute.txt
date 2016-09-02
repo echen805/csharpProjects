@@ -1,0 +1,8 @@
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\bin\Debug\RestaurantTests.dll
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\bin\Debug\RestaurantTests.pdb
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\bin\Debug\Restaurant.exe
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\bin\Debug\Restaurant.pdb
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\obj\Debug\RestaurantTests.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\obj\Debug\RestaurantTests.dll
+C:\Users\Ed\Dropbox\C# Projects\RestaurantTests\obj\Debug\RestaurantTests.pdb

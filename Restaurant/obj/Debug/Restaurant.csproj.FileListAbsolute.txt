@@ -1,0 +1,6 @@
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Ed\Dropbox\C# Projects\Restaurant\obj\Debug\Restaurant.pdb
